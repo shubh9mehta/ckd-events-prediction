@@ -30,6 +30,12 @@ By leveraging clinical features like **eGFR**, **Creatinine**, **Age**, **Diabet
 
 ---
 
+## 📢 Acknowledgements
+
+- **Dataset Source:** [Chronic Kidney Disease EHRs - Abu Dhabi (Kaggle)](https://www.kaggle.com/datasets/davidechicco/chronic-kidney-disease-ehrs-abu-dhabi?resource=download)
+- Dataset collected and made public by Davide Chicco on Kaggle.
+- Inspired by real-world clinical predictive modeling research.
+
 ## 📂 Project Structure
 
 ```plaintext
@@ -49,9 +55,5 @@ ckd-events-prediction/
 ├── .gitignore
 
 
-## 📢 Acknowledgements
 
-- **Dataset Source:** [Chronic Kidney Disease EHRs - Abu Dhabi (Kaggle)](https://www.kaggle.com/datasets/davidechicco/chronic-kidney-disease-ehrs-abu-dhabi?resource=download)
-- Dataset collected and made public by Davide Chicco on Kaggle.
-- Inspired by real-world clinical predictive modeling research.
 
