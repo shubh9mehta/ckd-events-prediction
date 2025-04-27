@@ -1,7 +1,5 @@
 # Predicting Severe Chronic Kidney Disease (CKD) Events Using Electronic Health Records (EHRs)
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/shubh9mehta/ckd-events-prediction)
-![GitHub License](https://img.shields.io/github/license/shubh9mehta/ckd-events-prediction)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
