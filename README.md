@@ -47,3 +47,11 @@ ckd-events-prediction/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
+
+
+## 📢 Acknowledgements
+
+- **Dataset Source:** [Chronic Kidney Disease EHRs - Abu Dhabi (Kaggle)](https://www.kaggle.com/datasets/davidechicco/chronic-kidney-disease-ehrs-abu-dhabi?resource=download)
+- Dataset collected and made public by Davide Chicco on Kaggle.
+- Inspired by real-world clinical predictive modeling research.
+
